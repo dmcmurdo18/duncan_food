@@ -1,0 +1,22 @@
+groceries.txtflour
+eggs
+baking soda
+salt
+bread
+lettuce
+roast pork
+green pepper
+green onion
+soft cheese
+apple
+banana
+cookies
+shrimp
+linguini
+milk
+butter
+flour
+cheese
+peas
+garlic bread
+lemon pudding mix
